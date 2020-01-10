@@ -1,6 +1,6 @@
 # Get_Next_Line
 
-* `It is a function that reads from a file descriptor line by line.`
+It is a function that reads from a file descriptor line by line.
 
 **Prototype:**
 * `int get_next_line(const int fd, char **line);`
